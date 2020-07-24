@@ -1,0 +1,25 @@
+{
+    "user": {
+      "id": "0001",
+      "first_name": "Chandni",
+      "last_name": "Panchal",
+      "birth_date": "30-01-1979",
+      "address": [
+        {
+          "street": "9-11 New Square",
+          "town": "Feltham",
+          "county": "Middlesex",
+          "postal_code": "TW14 8HA",
+          "primary": "1"
+        },
+        {
+          "street": "16-18 Finsbury Circus",
+          "town": "London",
+          "county": "London",
+          "postal_code": "EC2M 7EB",
+          "primary": "0"
+        }
+      ],
+      "score": "18.3"
+    }
+  }
